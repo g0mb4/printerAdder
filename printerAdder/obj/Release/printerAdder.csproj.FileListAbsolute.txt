@@ -1,0 +1,6 @@
+n:\prog\GitHub\printerAdder\printerAdder\bin\Release\printerAdder.exe.config
+n:\prog\GitHub\printerAdder\printerAdder\bin\Release\printerAdder.exe
+n:\prog\GitHub\printerAdder\printerAdder\bin\Release\printerAdder.pdb
+n:\prog\GitHub\printerAdder\printerAdder\obj\Release\printerAdder.csproj.CoreCompileInputs.cache
+n:\prog\GitHub\printerAdder\printerAdder\obj\Release\printerAdder.exe
+n:\prog\GitHub\printerAdder\printerAdder\obj\Release\printerAdder.pdb

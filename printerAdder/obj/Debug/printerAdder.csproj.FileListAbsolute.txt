@@ -5,3 +5,9 @@ C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printe
 C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.csproj.CoreCompileInputs.cache
 C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.exe
 C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.pdb
+n:\prog\GitHub\printerAdder\printerAdder\bin\Debug\printerAdder.exe.config
+n:\prog\GitHub\printerAdder\printerAdder\bin\Debug\printerAdder.exe
+n:\prog\GitHub\printerAdder\printerAdder\bin\Debug\printerAdder.pdb
+n:\prog\GitHub\printerAdder\printerAdder\obj\Debug\printerAdder.csproj.CoreCompileInputs.cache
+n:\prog\GitHub\printerAdder\printerAdder\obj\Debug\printerAdder.exe
+n:\prog\GitHub\printerAdder\printerAdder\obj\Debug\printerAdder.pdb
