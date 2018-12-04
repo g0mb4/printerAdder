@@ -1,0 +1,7 @@
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\bin\Debug\printerAdder.exe.config
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\bin\Debug\printerAdder.exe
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\bin\Debug\printerAdder.pdb
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.csprojAssemblyReference.cache
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.csproj.CoreCompileInputs.cache
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.exe
+C:\Users\ET-Mechatronics\source\repos\printerAdder\printerAdder\obj\Debug\printerAdder.pdb
